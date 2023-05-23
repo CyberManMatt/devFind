@@ -153,7 +153,19 @@
       "LinkedIn": "https://linkedin.com/in/vineyrawat"
     }
   },
-
+  {
+    "name": "Hirdesh Kumar",
+    "location": "Agra, UP India",
+    "bio": "A Full Stack developer with mastery in developing MERN stack applications. Have developed apps for almost all domains",
+    "avatar": "https://github.com/hirru.png",
+    "portfolio": "https://github.com/hirru",
+    "skills": ["Javascript", "ReactJS", "NextJS", "NodeJS", "HTML", "CSS"],
+    "social": {
+      "GitHub": "https://github.com/hirru",
+      "Twitter": "https://twitter.com/hirdesY",
+      "LinkedIn": "https://www.linkedin.com/in/hirdesh-kumar-498498118/"
+    }
+  },
   {
     "name": "Lokos man",
     "location": "Lagos, Nigeria",
@@ -178,7 +190,6 @@
       "LinkedIn": "https://www.linkedin.com/in/lokosman-androiddeveloper/"
     }
   },
-
   {
     "name": "Sonika Nagekar",
     "location": "Karwar, India",
@@ -217,6 +228,18 @@
       "GitHub": "https://github.com/KshitizRana",
       "Twitter": "https://twitter.com/Kshitiztwt",
       "LinkedIn": "https://www.linkedin.com/in/kshitiz-rana-264457226/"
+    }
+  },
+  {
+    "name": "Rafiya Rahman",
+    "location": "kolkata, India",
+    "bio": "I am currently learning to contribute in open source.I am a first year student, eager and open to learn and grow",
+    "avatar": "https://github.com/rafiya2003.png",
+    "portfolio": "https://github.com/rafiya2003",
+    "skills": ["Python", "HTML", "Java"],
+    "social": {
+      "GitHub": "https://github.com/rafiya2003",
+      "LinkedIn": "https://www.linkedin.com/in/rafiya-rahman-572128249"
     }
   },
   {
@@ -1379,5 +1402,18 @@
       "GitHub": "https://github.com/Aayush895",
       "LinkedIn": "https://www.linkedin.com/in/aayush-jha-6716b018b/"
     }
+  },
+   {
+   "name": "ved prakash",
+   "location": "Chandigarh ,India",
+   "bio": "first year engineering student currently pursuing my bachelor degree in information technology ,Am learning full stack web development ",
+   "avatar": "https://avatars.githubusercontent.com/u/124797314?s=400&u=63ee0b533b538b78fad35e14e7cca3a94d467806&v=4",
+   "portfolio": "https://github.com/B2prakash",
+   "skills": ["c", "c++", "HTML" , "CSS" , "NODE.JS" , "REACT JS"],
+   "social": {
+     "GitHub": "https://github.com/B2prakash",
+     "Twitter": "https://twitter.com/vedprak39212943",
+     "LinkedIn": "https://www.linkedin.com/in/ved-prakash-56697825b"
   }
+ }
 ]
